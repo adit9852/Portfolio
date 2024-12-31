@@ -20,7 +20,7 @@ export const data = [
         "heading":"E-Vehicle Site",
         "stack":" HTML, CSS, Javascript, ReactJS, nodeJS ,Firebase",
         "url":"https://res.cloudinary.com/dqhsop4rx/image/upload/v1735592397/evehiclesss_efjooe.png",
-        "link":"https://sudoku-solver-by-adityarana.vercel.app/",
+        "link":"https://e-vehicle-website.vercel.app/",
         "github":"https://e-vehicle-website.vercel.app/",
         "desc": ["Developed a The E-Vehicle site, this website is more than just a digital storefront; it's a dynamic hub designed to revolutionize the e-vehicle industry. Serving as an all-in-one solution, it seamlessly integrates features for product showcasing, bike sales, and accessory procurement."]
     },
